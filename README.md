@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Nanote</h1>
 <h3 align="center">A passionate App developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.dreamstime.com/stock-illustration-program-coding-vector-concept-seo-algorithm-improvement-application-development-web-programming-flat-design-style-illustration-image53628287"/>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/work-from-home-illustration-concept-man-working-laptop-home_427922-148.jpg?w=2000"/>
 
 - 🌱 I’m currently learning **Javascript and Node**
 
