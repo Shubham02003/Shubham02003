@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Nanote</h1>
-<h3 align="center">A passionate App developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/work-from-home-illustration-concept-man-working-laptop-home_427922-148.jpg?w=2000"/>
 
 - 🌱 I’m currently learning **Javascript and Node**
